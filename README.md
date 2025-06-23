@@ -46,5 +46,5 @@ I’m currently focused on expanding my skills in full-stack development and bac
 ---
 
 <p align="center">
-  🟡 Built with 💙 by Alvin Barua
+  🟡 Made by Alvin Barua💙 
 </p>
