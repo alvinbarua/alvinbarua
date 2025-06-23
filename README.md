@@ -19,7 +19,7 @@ I’m currently focused on expanding my skills in full-stack development and bac
 
 ---
 
-## 📚 Technologies I'm Learning
+## 📚 Skills I'm Currently Developing and Working With 
 
 ### 💻 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
