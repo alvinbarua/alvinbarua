@@ -44,7 +44,4 @@ I’m currently focused on expanding my skills in full-stack development and bac
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-<p align="center">
-  🟡 Made by Alvin Barua💙 
 </p>
